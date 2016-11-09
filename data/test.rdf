@@ -1,0 +1,5 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:test="http://lodlab.com/kal/lodtest/test.csv/">
+	<rdf:Description rdf:about="http://lodlab/kal/lodtest/test.csv/row/1">
+		<test:message>Hello World!</test:message>
+	</rdf:Description>
+</rdf:RDF>

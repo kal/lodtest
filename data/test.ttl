@@ -1,0 +1,3 @@
+@prefix test: <http://lodlab.com/kal/lodtest/test.csv/>
+
+test:row1 test:message "Hello World!".
