@@ -126,6 +126,7 @@ _:autos177 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<ht
 _:autos177 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#annual_average_ordinary_electricity_domestic_consumption_(kwh)(2007)> "3835.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos178 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos179 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
+_:autos179 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#annual_average_electricity_domestic_consumption_(kwh)(2010)> "3688"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos18 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos180 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos181 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
@@ -140,6 +141,7 @@ _:autos189 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<ht
 _:autos19 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos190 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos191 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
+_:autos191 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#annual_average_electricity_domestic_consumption_(kwh)(2010)> "3484"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos192 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos193 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos193 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#annual_average_electricity_domestic_consumption_(kwh)(2007)> "5033"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
@@ -156,6 +158,7 @@ _:autos20 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<htt
 _:autos20 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#annual_average_economy_7_electricity_domestic_consumption_(kwh)(2008)> "5704.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos200 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos201 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
+_:autos201 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#annual_average_electricity_domestic_consumption_(kwh)(2008)> "3688"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos202 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos203 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos204 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
@@ -228,6 +231,7 @@ _:autos249 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<ht
 _:autos25 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos250 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos251 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
+_:autos251 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#annual_average_electricity_domestic_consumption_(kwh)(2008)> "3484"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos252 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos252 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#Annual%20Average%20Electricity%20Domestic%20Consumption%20%20(kWh)(2009)> "3785"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 _:autos252 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv#annual_average_electricity_domestic_consumption_(kwh)(2009)> "3785"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
