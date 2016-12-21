@@ -6,9 +6,9 @@
 ]>
 <rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:ns0="http://rdfs.org/ns/void#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <ns0:Dataset rdf:about="http://lodlab.com/kal/lodtest/home-countries-list.csv">
-    <ns1:description rdf:datatype="&xsd;string" xmlns:ns1="http://purl.org/dc/terms/">blah blah</ns1:description>
+    <ns1:description rdf:datatype="&xsd;string" xmlns:ns1="http://purl.org/dc/terms/">Open data index for various European countries</ns1:description>
     <ns2:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" xmlns:ns2="http://purl.org/dc/terms/" />
     <ns3:title rdf:datatype="&xsd;string" xmlns:ns3="http://purl.org/dc/terms/">Home Countries List</ns3:title>
-    <ns4:keyword rdf:datatype="&xsd;string" xmlns:ns4="http://www.w3.org/ns/dcat#">blah</ns4:keyword>
+    <ns4:keyword rdf:datatype="&xsd;string" xmlns:ns4="http://www.w3.org/ns/dcat#">europe, open data</ns4:keyword>
   </ns0:Dataset>
 </rdf:RDF>
