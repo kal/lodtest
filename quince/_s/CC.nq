@@ -1,8 +1,9 @@
-﻿<http://lodlab.com/kal/lodtest/AT.csv> <http://purl.org/dc/terms/description> "woop woop"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/metadata>.
+﻿<http://lodlab.com/kal/lodtest/AT.csv> <http://purl.org/dc/terms/description> "blah blah"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/AT.csv> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/AT.csv> <http://purl.org/dc/terms/title> "Open Data - Austria"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/AT.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://lodlab.com/kal/lodtest/metadata>.
-<http://lodlab.com/kal/lodtest/AT.csv> <http://www.w3.org/ns/dcat#keyword> "europe, open data"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/metadata>.
+<http://lodlab.com/kal/lodtest/AT.csv> <http://www.w3.org/ns/dcat#keyword> "europe"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/metadata>.
+<http://lodlab.com/kal/lodtest/AT.csv> <http://www.w3.org/ns/dcat#keyword> "open data"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv/rows/232> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv/def/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2007)> "8476.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv/rows/232> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv/def/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2008)> "7049.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
 <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv/rows/232> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv/def/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2009)> "6172.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv>.
