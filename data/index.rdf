@@ -6,6 +6,6 @@
 ]>
 <rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:ns0="http://rdfs.org/ns/void#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <ns0:Dataset rdf:about="http://lodlab.com/kal/lodtest/">
-    <ns0:subset rdf:resource="http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv" />
+    <ns0:subset rdf:resource="http://lodlab.com/kal/lodtest/home-countries-list.csv" />
   </ns0:Dataset>
 </rdf:RDF>

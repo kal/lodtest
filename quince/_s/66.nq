@@ -1,2 +1,2 @@
-﻿<http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv> <http://lodlab.com/kal/lodtest/metadata>.
+﻿<http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/home-countries-list.csv> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://lodlab.com/kal/lodtest/metadata>.

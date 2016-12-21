@@ -1,0 +1,5 @@
+﻿<http://lodlab.com/kal/lodtest/home-countries-list.csv> <http://purl.org/dc/terms/description> "blah blah"^^<http://www.w3.org/2001/XMLSchema#string> <VDS.RDF.Graph>.
+<http://lodlab.com/kal/lodtest/home-countries-list.csv> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> <VDS.RDF.Graph>.
+<http://lodlab.com/kal/lodtest/home-countries-list.csv> <http://purl.org/dc/terms/title> "Home Countries List"^^<http://www.w3.org/2001/XMLSchema#string> <VDS.RDF.Graph>.
+<http://lodlab.com/kal/lodtest/home-countries-list.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <VDS.RDF.Graph>.
+<http://lodlab.com/kal/lodtest/home-countries-list.csv> <http://www.w3.org/ns/dcat#keyword> "blah"^^<http://www.w3.org/2001/XMLSchema#string> <VDS.RDF.Graph>.
