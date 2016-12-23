@@ -1,0 +1,428 @@
+﻿<html>
+  <h1>
+	http://lodlab.com/kal/lodtest/resource/dataViewElectrictyUse_23.csv/row_243
+  </h1>
+  <table>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2007)">http://lodlab.com/kal/lodtest/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2007)</a>
+			
+		</td>
+		<td>
+			
+				5225.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2008)">http://lodlab.com/kal/lodtest/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2008)</a>
+			
+		</td>
+		<td>
+			
+				6137.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2009)">http://lodlab.com/kal/lodtest/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2009)</a>
+			
+		</td>
+		<td>
+			
+				5169.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2010)">http://lodlab.com/kal/lodtest/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2010)</a>
+			
+		</td>
+		<td>
+			
+				4274.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_electricity_domestic_consumption_(kwh)(2007)">http://lodlab.com/kal/lodtest/definition/annual_average_electricity_domestic_consumption_(kwh)(2007)</a>
+			
+		</td>
+		<td>
+			
+				3645
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_electricity_domestic_consumption_(kwh)(2008)">http://lodlab.com/kal/lodtest/definition/annual_average_electricity_domestic_consumption_(kwh)(2008)</a>
+			
+		</td>
+		<td>
+			
+				3682
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_electricity_domestic_consumption_(kwh)(2009)">http://lodlab.com/kal/lodtest/definition/annual_average_electricity_domestic_consumption_(kwh)(2009)</a>
+			
+		</td>
+		<td>
+			
+				3669
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_electricity_domestic_consumption_(kwh)(2010)">http://lodlab.com/kal/lodtest/definition/annual_average_electricity_domestic_consumption_(kwh)(2010)</a>
+			
+		</td>
+		<td>
+			
+				3503
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_ordinary_electricity_domestic_consumption_(kwh)(2007)">http://lodlab.com/kal/lodtest/definition/annual_average_ordinary_electricity_domestic_consumption_(kwh)(2007)</a>
+			
+		</td>
+		<td>
+			
+				3550.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_ordinary_electricity_domestic_consumption_(kwh)(2008)">http://lodlab.com/kal/lodtest/definition/annual_average_ordinary_electricity_domestic_consumption_(kwh)(2008)</a>
+			
+		</td>
+		<td>
+			
+				3543.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_ordinary_electricity_domestic_consumption_(kwh)(2009)">http://lodlab.com/kal/lodtest/definition/annual_average_ordinary_electricity_domestic_consumption_(kwh)(2009)</a>
+			
+		</td>
+		<td>
+			
+				3592.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_average_ordinary_electricity_domestic_consumption_(kwh)(2010)">http://lodlab.com/kal/lodtest/definition/annual_average_ordinary_electricity_domestic_consumption_(kwh)(2010)</a>
+			
+		</td>
+		<td>
+			
+				3457.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2007)">http://lodlab.com/kal/lodtest/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2007)</a>
+			
+		</td>
+		<td>
+			
+				193341.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2008)">http://lodlab.com/kal/lodtest/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2008)</a>
+			
+		</td>
+		<td>
+			
+				214810.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2009)">http://lodlab.com/kal/lodtest/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2009)</a>
+			
+		</td>
+		<td>
+			
+				165414.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2010)">http://lodlab.com/kal/lodtest/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2010)</a>
+			
+		</td>
+		<td>
+			
+				158150.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_ordinary_domestic_electricity_consumption_(kwh)(2007)">http://lodlab.com/kal/lodtest/definition/annual_ordinary_domestic_electricity_consumption_(kwh)(2007)</a>
+			
+		</td>
+		<td>
+			
+				2172367.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_ordinary_domestic_electricity_consumption_(kwh)(2008)">http://lodlab.com/kal/lodtest/definition/annual_ordinary_domestic_electricity_consumption_(kwh)(2008)</a>
+			
+		</td>
+		<td>
+			
+				2189581.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_ordinary_domestic_electricity_consumption_(kwh)(2009)">http://lodlab.com/kal/lodtest/definition/annual_ordinary_domestic_electricity_consumption_(kwh)(2009)</a>
+			
+		</td>
+		<td>
+			
+				2234123.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_ordinary_domestic_electricity_consumption_(kwh)(2010)">http://lodlab.com/kal/lodtest/definition/annual_ordinary_domestic_electricity_consumption_(kwh)(2010)</a>
+			
+		</td>
+		<td>
+			
+				2136279.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_total_domestic_electricity_consumption_(kwh)(2007)">http://lodlab.com/kal/lodtest/definition/annual_total_domestic_electricity_consumption_(kwh)(2007)</a>
+			
+		</td>
+		<td>
+			
+				2365708
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_total_domestic_electricity_consumption_(kwh)(2008)">http://lodlab.com/kal/lodtest/definition/annual_total_domestic_electricity_consumption_(kwh)(2008)</a>
+			
+		</td>
+		<td>
+			
+				2404390
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_total_domestic_electricity_consumption_(kwh)(2009)">http://lodlab.com/kal/lodtest/definition/annual_total_domestic_electricity_consumption_(kwh)(2009)</a>
+			
+		</td>
+		<td>
+			
+				2399537
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/annual_total_domestic_electricity_consumption_(kwh)(2010)">http://lodlab.com/kal/lodtest/definition/annual_total_domestic_electricity_consumption_(kwh)(2010)</a>
+			
+		</td>
+		<td>
+			
+				2294429
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/lsoa01">http://lodlab.com/kal/lodtest/definition/lsoa01</a>
+			
+		</td>
+		<td>
+			
+				_E01014727
+				 (http://www.w3.org/2001/XMLSchema#string)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/name">http://lodlab.com/kal/lodtest/definition/name</a>
+			
+		</td>
+		<td>
+			
+				Bishport Avenue East
+				 (http://www.w3.org/2001/XMLSchema#string)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/number_of_economy_7_meters(2010)">http://lodlab.com/kal/lodtest/definition/number_of_economy_7_meters(2010)</a>
+			
+		</td>
+		<td>
+			
+				37.0
+				 (http://www.w3.org/2001/XMLSchema#decimal)  
+				
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			
+				<a href="http://lodlab.com/kal/lodtest/definition/number_of_ordinary_domestic_meters(2010)">http://lodlab.com/kal/lodtest/definition/number_of_ordinary_domestic_meters(2010)</a>
+			
+		</td>
+		<td>
+			
+				618
+				 (http://www.w3.org/2001/XMLSchema#integer)  
+				
+			
+		</td>
+	</tr>
+	
+  </table>
+</html>
