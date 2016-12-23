@@ -1,2 +1,0 @@
-﻿<http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/dataViewElectrictyUse_23.csv> <VDS.RDF.Graph>.
-<http://lodlab.com/kal/lodtest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <VDS.RDF.Graph>.
