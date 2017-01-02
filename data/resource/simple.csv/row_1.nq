@@ -1,0 +1,2 @@
+﻿<http://lodlab.com/kal/lodtest/id/resource/simple.csv/row_1> <http://lodlab.com/kal/lodtest/id/definition/value> "25"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/simple.csv/row_1> <http://lodlab.com/kal/lodtest/id/definition/year> "2001"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv>.
