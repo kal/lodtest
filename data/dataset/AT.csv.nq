@@ -1,4 +1,4 @@
-﻿<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/description> "blah blah blah"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
+﻿<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/description> "blah blah"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/title> "Open Data - Austria"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
