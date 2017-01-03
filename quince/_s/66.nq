@@ -1,4 +1,5 @@
-﻿<http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv> <http://lodlab.com/kal/lodtest/metadata>.
+﻿<http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://lodlab.com/kal/lodtest/metadata>.
+<http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/id/resource/dataViewElectrictyUse_23.csv/row_163> <http://lodlab.com/kal/lodtest/id/definition/annual_average_economy_7_electricity_domestic_consumption_(kwh)(2007)> "5652.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv>.
