@@ -8,4 +8,4 @@
 <http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_2> <http://lodlab.com/kal/lodtest/id/definition/number_of_distributions> "920"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
 <http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_2> <http://lodlab.com/kal/lodtest/id/definition/open_licences(%25)> "100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
 <http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_2> <http://lodlab.com/kal/lodtest/id/definition/unique_publishers> "27"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
-<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_2> <http://lodlab.com/kal/lodtest/id/definition/url> "http://data.opendataportal.at/"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_2> <http://lodlab.com/kal/lodtest/id/definition/url> <http://data.opendataportal.at/> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
