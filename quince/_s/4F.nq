@@ -1,1 +1,11 @@
-﻿
+﻿<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/availability(%25)> "100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/catalogue_name> "tirol-gv-at"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/catid> "657"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/distribution_size(mb)> "1682"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/machine_readable(%25)> "30"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/metadata_completeness(%25)> "52"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/number_of_datasets> "80"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/number_of_distributions> "114"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/open_licences(%25)> "100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/unique_publishers> "23"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_7> <http://lodlab.com/kal/lodtest/id/definition/url> <https://www.tirol.gv.at/> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
