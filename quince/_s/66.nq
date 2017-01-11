@@ -1,6 +1,4 @@
-﻿<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/description> "Kal's little world of linked open data" <http://lodlab.com/kal/lodtest/metadata>.
-<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://lodlab.com/kal/lodtest/metadata>.
-<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/title> "Lodlab Test Repository" <http://lodlab.com/kal/lodtest/metadata>.
+﻿<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv> <http://lodlab.com/kal/lodtest/metadata>.
