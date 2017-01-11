@@ -20,7 +20,7 @@
 		<link rel="alternate" type="application/n-quads" href="http://lodlab.com/kal/lodtest/data/void.nq"/>
 
 	</head>
-<body>
+<body prefix="dc: http://purl.org/dc/terms/ void: http://rdfs.org/ns/void# dcat: http://www.w3.org/ns/dcat#" resource="http://lodlab.com/kal/lodtest/">
 	<div class="container">
 		<header class="page-header">
 							<h1>Dataset: http://lodlab.com/kal/lodtest/</h1>
@@ -31,23 +31,23 @@
 					<tr>
 						<td>Publisher</td>
 						<td>
-																														<table>
+																														<table property="dc:publisher" resource="http://lodlab.com/kal/lodtest/id/dataset/publisher">
 									<tr>
 										<td>Name:</td>
 										<td>
-																						Kal Ahmed
+																						<span property="foaf:name">Kal Ahmed</span>
 										</td>
 									</tr>
 									<tr>
 										<td>Website:</td>
 										<td>
-																																		<a href="http://techquila.com/">http://techquila.com/</a>
+																																		<a property="foaf:homepage" href="http://techquila.com/">http://techquila.com/</a>
 																					</td>
 									</tr>
 									<tr>
 										<td>Contact:</td>
 										<td>
-																						kal@techquila.com
+																						<span property="foaf:mbox">kal@techquila.com</span>
 										</td>
 									</tr>
 								</table>
@@ -64,11 +64,11 @@
 			</div>
 			
 				
-				<div class="row">
+				<div class="row" property="void:subset" resource="http://lodlab.com/kal/lodtest/id/dataset/AT.csv">
 					<div class="panel panel-default">
 						
 						<div class="panel-heading">
-							<h3><a href="http://lodlab.com/kal/lodtest/id/dataset/AT.csv">Open Data - Austria</a></h3>
+							<h3 property="dc:title"><a href="http://lodlab.com/kal/lodtest/id/dataset/AT.csv">Open Data - Austria</a></h3>
 						</div>
 						<div class="panel-content">
 							<table class="table table-condensed">
@@ -76,13 +76,17 @@
 									<td>Description:</td>
 									<td>
 										
-										Not specified.
+										
+											<span property="dc:description"></span>
+										
 									</td>
 								</tr>
 								<tr>
 									<td>Modified:</td>
 									<td>
-																				2017-01-11
+																				
+											<span property="dc:modified" datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-11</span>
+										
 									</td>
 								</tr>
 								<tr>
@@ -91,7 +95,7 @@
 										
 										
 											
-													<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
+													<a property="dc:license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
 												
 										
 									</td>
@@ -100,18 +104,18 @@
 									<td>Triple Count:</td>
 									<td>
 										
-										88
+										
+											<span property="void:triples" datatype="http://www.w3.org/2001/XMLSchema#integer">88</span>
+										
 									</td>
 								</tr>
 																									<tr>
 										<td>Keywords:</td>
 										<td>
 											
-												<a href="http://lodlab.com/search?tag=austria" class="btn btn-primary">austria</a>
+												<a href="http://lodlab.com/search?tag=austria" class="btn btn-primary"><span property="dcat:keyword">austria</span></a>
 											
-												<a href="http://lodlab.com/search?tag=data" class="btn btn-primary">data</a>
-											
-												<a href="http://lodlab.com/search?tag=open" class="btn btn-primary">open</a>
+												<a href="http://lodlab.com/search?tag=open data" class="btn btn-primary"><span property="dcat:keyword">open data</span></a>
 											
 										</td>
 									</tr>
@@ -119,7 +123,7 @@
 										<td>Download:</td>
 										<td>
 											
-												<a href="https://github.com/kal/lodtest/releases/download/AT.csv_20170111_122200/AT.csv_20170111_122200.nt.gz">AT.csv_20170111_122200.nt.gz</a>
+												<a property="void:dataDump" href="https://github.com/kal/lodtest/releases/download/AT.csv_20170111_133720/AT.csv_20170111_133720.nt.gz">AT.csv_20170111_133720.nt.gz</a>
 											
 										</td>
 									</tr>
@@ -129,11 +133,11 @@
 				</div>
 			
 				
-				<div class="row">
+				<div class="row" property="void:subset" resource="http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv">
 					<div class="panel panel-default">
 						
 						<div class="panel-heading">
-							<h3><a href="http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv">Electricity Usage 2007 - 2010</a></h3>
+							<h3 property="dc:title"><a href="http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv">Electricity Usage 2007 - 2010</a></h3>
 						</div>
 						<div class="panel-content">
 							<table class="table table-condensed">
@@ -141,13 +145,17 @@
 									<td>Description:</td>
 									<td>
 										
-										Not specified.
+										
+											<span property="dc:description"></span>
+										
 									</td>
 								</tr>
 								<tr>
 									<td>Modified:</td>
 									<td>
-																				2017-01-06
+																				
+											<span property="dc:modified" datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-06</span>
+										
 									</td>
 								</tr>
 								<tr>
@@ -156,7 +164,7 @@
 										
 										
 											
-													<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
+													<a property="dc:license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
 												
 										
 									</td>
@@ -165,18 +173,20 @@
 									<td>Triple Count:</td>
 									<td>
 										
-										7084
+										
+											<span property="void:triples" datatype="http://www.w3.org/2001/XMLSchema#integer">7084</span>
+										
 									</td>
 								</tr>
 																									<tr>
 										<td>Keywords:</td>
 										<td>
 											
-												<a href="http://lodlab.com/search?tag=electricity" class="btn btn-primary">electricity</a>
+												<a href="http://lodlab.com/search?tag=electricity" class="btn btn-primary"><span property="dcat:keyword">electricity</span></a>
 											
-												<a href="http://lodlab.com/search?tag=london" class="btn btn-primary">london</a>
+												<a href="http://lodlab.com/search?tag=london" class="btn btn-primary"><span property="dcat:keyword">london</span></a>
 											
-												<a href="http://lodlab.com/search?tag=meters" class="btn btn-primary">meters</a>
+												<a href="http://lodlab.com/search?tag=meters" class="btn btn-primary"><span property="dcat:keyword">meters</span></a>
 											
 										</td>
 									</tr>
@@ -184,7 +194,7 @@
 										<td>Download:</td>
 										<td>
 											
-												<a href="https://github.com/kal/lodtest/releases/download/dataViewElectrictyUse_23.csv_20170106_174514/dataViewElectrictyUse_23.csv_20170106_174514.nt.gz">dataViewElectrictyUse_23.csv_20170106_174514.nt.gz</a>
+												<a property="void:dataDump" href="https://github.com/kal/lodtest/releases/download/dataViewElectrictyUse_23.csv_20170106_174514/dataViewElectrictyUse_23.csv_20170106_174514.nt.gz">dataViewElectrictyUse_23.csv_20170106_174514.nt.gz</a>
 											
 										</td>
 									</tr>
@@ -194,11 +204,11 @@
 				</div>
 			
 				
-				<div class="row">
+				<div class="row" property="void:subset" resource="http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv">
 					<div class="panel panel-default">
 						
 						<div class="panel-heading">
-							<h3><a href="http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv">Open Data Index - Europe</a></h3>
+							<h3 property="dc:title"><a href="http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv">Open Data Index - Europe</a></h3>
 						</div>
 						<div class="panel-content">
 							<table class="table table-condensed">
@@ -206,13 +216,17 @@
 									<td>Description:</td>
 									<td>
 										
-										Open data statistics for various European countries
+										
+											<span property="dc:description">Open data statistics for various European countries</span>
+										
 									</td>
 								</tr>
 								<tr>
 									<td>Modified:</td>
 									<td>
-																				2017-01-04
+																				
+											<span property="dc:modified" datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-04</span>
+										
 									</td>
 								</tr>
 								<tr>
@@ -221,7 +235,7 @@
 										
 										
 											
-													<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
+													<a property="dc:license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
 												
 										
 									</td>
@@ -230,16 +244,18 @@
 									<td>Triple Count:</td>
 									<td>
 										
-										352
+										
+											<span property="void:triples" datatype="http://www.w3.org/2001/XMLSchema#integer">352</span>
+										
 									</td>
 								</tr>
 																									<tr>
 										<td>Keywords:</td>
 										<td>
 											
-												<a href="http://lodlab.com/search?tag=europe" class="btn btn-primary">europe</a>
+												<a href="http://lodlab.com/search?tag=europe" class="btn btn-primary"><span property="dcat:keyword">europe</span></a>
 											
-												<a href="http://lodlab.com/search?tag=open data" class="btn btn-primary">open data</a>
+												<a href="http://lodlab.com/search?tag=open data" class="btn btn-primary"><span property="dcat:keyword">open data</span></a>
 											
 										</td>
 									</tr>
@@ -249,11 +265,11 @@
 				</div>
 			
 				
-				<div class="row">
+				<div class="row" property="void:subset" resource="http://lodlab.com/kal/lodtest/id/dataset/simple.csv">
 					<div class="panel panel-default">
 						
 						<div class="panel-heading">
-							<h3><a href="http://lodlab.com/kal/lodtest/id/dataset/simple.csv">simple.csv</a></h3>
+							<h3 property="dc:title"><a href="http://lodlab.com/kal/lodtest/id/dataset/simple.csv">simple.csv</a></h3>
 						</div>
 						<div class="panel-content">
 							<table class="table table-condensed">
@@ -261,13 +277,17 @@
 									<td>Description:</td>
 									<td>
 										
-										Not specified.
+										
+											<span property="dc:description"></span>
+										
 									</td>
 								</tr>
 								<tr>
 									<td>Modified:</td>
 									<td>
-																				Not specified.
+																				
+											Not specified.
+										
 									</td>
 								</tr>
 								<tr>
@@ -276,7 +296,7 @@
 										
 										
 											
-													<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
+													<a property="dc:license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
 												
 										
 									</td>
@@ -285,14 +305,16 @@
 									<td>Triple Count:</td>
 									<td>
 										
-										4
+										
+											<span property="void:triples" datatype="http://www.w3.org/2001/XMLSchema#integer">4</span>
+										
 									</td>
 								</tr>
 																									<tr>
 										<td>Keywords:</td>
 										<td>
 											
-												<a href="http://lodlab.com/search?tag=simples" class="btn btn-primary">simples</a>
+												<a href="http://lodlab.com/search?tag=simples" class="btn btn-primary"><span property="dcat:keyword">simples</span></a>
 											
 										</td>
 									</tr>
