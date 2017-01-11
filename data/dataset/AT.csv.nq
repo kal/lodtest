@@ -3,10 +3,9 @@
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/modified> "2017-01-11"^^<http://www.w3.org/2001/XMLSchema#date> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/title> "Open Data - Austria"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/kal/lodtest/releases/download/AT.csv_20170111_120304/AT.csv_20170111_120304.nt.gz> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
+<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/kal/lodtest/releases/download/AT.csv_20170111_122200/AT.csv_20170111_122200.nt.gz> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#triples> "88"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/ns/dcat#keyword> "austria"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/ns/dcat#keyword> "catalogue"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/ns/dcat#keyword> "data"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/ns/dcat#keyword> "open"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
