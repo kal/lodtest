@@ -1,9 +1,10 @@
-<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/description> "Kal's Test Repository" http://lodlab.com/kal/lodtest/metadata .
+<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/description> "Just a test repository" http://lodlab.com/kal/lodtest/metadata .
 <http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> http://lodlab.com/kal/lodtest/metadata .
-<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/title> "Lodlab Test Repository" http://lodlab.com/kal/lodtest/metadata .
+<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/title> "Kal's Lodlab Test Repository" http://lodlab.com/kal/lodtest/metadata .
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> http://lodlab.com/kal/lodtest/metadata .
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv> http://lodlab.com/kal/lodtest/metadata .
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv> http://lodlab.com/kal/lodtest/metadata .
+<http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> http://lodlab.com/kal/lodtest/metadata .
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv> http://lodlab.com/kal/lodtest/metadata .
 <http://lodlab.com/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://lodlab.com/kal/lodtest/id/dataset/tinynotitle.csv> http://lodlab.com/kal/lodtest/metadata .
 <http://lodlab.com/kal/lodtest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> http://lodlab.com/kal/lodtest/metadata .
@@ -37,6 +38,16 @@
 <http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv/metadata .
 <http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv> <http://www.w3.org/ns/dcat#keyword> "europe"^^<http://www.w3.org/2001/XMLSchema#string> http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv/metadata .
 <http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv> <http://www.w3.org/ns/dcat#keyword> "open data"^^<http://www.w3.org/2001/XMLSchema#string> http://lodlab.com/kal/lodtest/id/dataset/home-countries-list.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://purl.org/dc/terms/description> "Mean and median income of tax payers in London 1999 - 2013"^^<http://www.w3.org/2001/XMLSchema#string> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://purl.org/dc/terms/modified> "2017-01-16"^^<http://www.w3.org/2001/XMLSchema#date> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://purl.org/dc/terms/title> "income-of-tax-payers.csv"^^<http://www.w3.org/2001/XMLSchema#string> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/kal/lodtest/releases/download/income-of-tax-payers.csv_20170116_110450/income-of-tax-payers.csv_20170116_110450.nt.gz> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://rdfs.org/ns/void#triples> "1316"^^<http://www.w3.org/2001/XMLSchema#integer> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://www.w3.org/ns/dcat#keyword> "income"^^<http://www.w3.org/2001/XMLSchema#string> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
+<http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://www.w3.org/ns/dcat#keyword> "london"^^<http://www.w3.org/2001/XMLSchema#string> http://lodlab.com/kal/lodtest/id/dataset/income-of-tax-payers.csv/metadata .
 <http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://purl.org/dc/terms/description> ""^^<http://www.w3.org/2001/XMLSchema#string> http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata .
 <http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata .
 <http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata .

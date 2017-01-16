@@ -1,4 +1,5 @@
-﻿<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_2> <http://lodlab.com/kal/lodtest/id/definition/unique_publishers> "27"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+﻿<http://lodlab.com/kal/lodtest/> <http://purl.org/dc/terms/title> "Kal's Lodlab Test Repository" <http://lodlab.com/kal/lodtest/metadata>.
+<http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_2> <http://lodlab.com/kal/lodtest/id/definition/unique_publishers> "27"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
 <http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_3> <http://lodlab.com/kal/lodtest/id/definition/availability(%)> "27"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
 <http://lodlab.com/kal/lodtest/id/resource/AT.csv/row_4> <http://lodlab.com/kal/lodtest/id/definition/number_of_distributions> "142"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
 <http://lodlab.com/kal/lodtest/id/resource/dataViewElectrictyUse_23.csv/row_101> <http://lodlab.com/kal/lodtest/id/definition/annual_economy_7_domestic_electricity_consumption_(kwh)(2009)> "173399.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://lodlab.com/kal/lodtest/id/dataset/dataViewElectrictyUse_23.csv>.
