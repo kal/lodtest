@@ -1,6 +1,17 @@
 ﻿<http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Kal Ahmed" <http://lodlab.com/kal/lodtest/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <http://networkedplanet.com/> <http://lodlab.com/kal/lodtest/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://xmlns.com/foaf/0.1/mbox> "kal@networkedplanet.com" <http://lodlab.com/kal/lodtest/metadata>.
+<http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <http://techquila.com/> <http://lodlab.com/kal/lodtest/metadata>.
+<http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://xmlns.com/foaf/0.1/mbox> "kal@techquila.com" <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "Kal Ahmed" <http://lodlab.com/kal/lodtest/metadata>.
 <http://lodlab.com/kal/lodtest/id/definition/median_�_-_2009-10> <http://www.w3.org/2000/01/rdf-schema#label> "Median � - 2009-10"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/definitions>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/availability(%)> "100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/catalogue_name> "tirol-gv-at"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/catid> "657"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/distribution_size(mb)> "1682"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/machine_readable(%)> "30"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/metadata_completeness(%)> "52"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/number_of_datasets> "80"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/number_of_distributions> "114"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/open_licences(%)> "100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/unique_publishers> "23"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
+<http://lodlab.com/kal/lodtest/id/resource/catid/657> <http://lodlab.com/kal/lodtest/id/definition/url> <https://www.tirol.gv.at/> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv>.
