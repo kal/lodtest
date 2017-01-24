@@ -1,10 +1,10 @@
-﻿<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/description> "A list of open data catalogues in Austria"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
+﻿<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/description> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/modified> "2017-01-18"^^<http://www.w3.org/2001/XMLSchema#date> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
+<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/modified> "2017-01-24"^^<http://www.w3.org/2001/XMLSchema#date> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://purl.org/dc/terms/title> "Open Data - Austria"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#dataDump> <http://lodlab.com/kal/lodtest/csv/AT.csv/AT.csv> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/kal/lodtest/releases/download/AT.csv_20170118_120949/AT.csv_20170118_120949.nt.gz> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
+<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/kal/lodtest/releases/download/AT.csv_20170124_114038/AT.csv_20170124_114038.nt.gz> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#exampleResource> <http://lodlab.com/kal/lodtest/id/resource/catid/385> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#exampleResource> <http://lodlab.com/kal/lodtest/id/resource/catid/422> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#exampleResource> <http://lodlab.com/kal/lodtest/id/resource/catid/424> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
@@ -15,6 +15,4 @@
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#exampleResource> <http://lodlab.com/kal/lodtest/id/resource/catid/818> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://rdfs.org/ns/void#triples> "88"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/ns/dcat#keyword> "austria"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/ns/dcat#keyword> "catalog"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
 <http://lodlab.com/kal/lodtest/id/dataset/AT.csv> <http://www.w3.org/ns/dcat#keyword> "open data"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/AT.csv/metadata>.
