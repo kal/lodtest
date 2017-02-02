@@ -1,5 +1,4 @@
 ﻿<http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/description> "My data repository" <http://datadock.io/kal/lodtest/metadata>.
 <http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/lodtest/id/dataset/publisher> <http://datadock.io/kal/lodtest/metadata>.
 <http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/title> "Kal's Repository" <http://datadock.io/kal/lodtest/metadata>.
-<http://datadock.io/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/lodtest/id/dataset/AT.csv> <http://datadock.io/kal/lodtest/metadata>.
 <http://datadock.io/kal/lodtest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/lodtest/metadata>.

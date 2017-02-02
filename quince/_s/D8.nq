@@ -1,11 +1,1 @@
-﻿<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/availability_%_> "88"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/catalogue_name> "datagvat"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/catid> "385"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/distribution_size_mb_> "50656"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/machine_readable_%_> "49"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/metadata_completeness_%_> "77"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/number_of_datasets> "1817"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/number_of_distributions> "7154"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/open_licences_%_> "100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/unique_publishers> "34"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
-<http://datadock.io/kal/lodtest/id/resource/catid/385> <http://datadock.io/kal/lodtest/id/definition/url> <https://www.data.gv.at/katalog/> <http://datadock.io/kal/lodtest/id/dataset/AT.csv>.
+﻿
