@@ -1,9 +1,11 @@
 ﻿<http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/description> "Another test data repository" <http://datadock.io/kal/lodtest/metadata>.
 <http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/lodtest/id/dataset/publisher> <http://datadock.io/kal/lodtest/metadata>.
 <http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/title> "Test Linked Data Repository" <http://datadock.io/kal/lodtest/metadata>.
+<http://datadock.io/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/lodtest/id/dataset/income-of-tax-payers.csv> <http://datadock.io/kal/lodtest/metadata>.
 <http://datadock.io/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/lodtest/id/dataset/libraries_ncc-libraries-current_csv.csv> <http://datadock.io/kal/lodtest/metadata>.
 <http://datadock.io/kal/lodtest/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/lodtest/id/dataset/UNHCR_Refugees_2010.csv> <http://datadock.io/kal/lodtest/metadata>.
 <http://datadock.io/kal/lodtest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/lodtest/metadata>.
+<http://datadock.io/kal/lodtest/id/definition/mean_%EF%BF%BD_-_1999-00> <http://www.w3.org/2000/01/rdf-schema#label> "Mean � - 1999-00"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/lodtest/definitions>.
 <http://datadock.io/kal/lodtest/id/resource/UNHCR_Refugees_2010.csv/row_1253> <http://datadock.io/kal/lodtest/id/definition/country_or_territory_of_asylum_or_residence> "Czech Rep."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/lodtest/id/dataset/UNHCR_Refugees_2010.csv>.
 <http://datadock.io/kal/lodtest/id/resource/UNHCR_Refugees_2010.csv/row_1253> <http://datadock.io/kal/lodtest/id/definition/country_or_territory_of_origin> "Somalia"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/lodtest/id/dataset/UNHCR_Refugees_2010.csv>.
 <http://datadock.io/kal/lodtest/id/resource/UNHCR_Refugees_2010.csv/row_1253> <http://datadock.io/kal/lodtest/id/definition/refugees_assisted_by_unhcr> "0"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/lodtest/id/dataset/UNHCR_Refugees_2010.csv>.
