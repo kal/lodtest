@@ -1,9 +1,0 @@
-<http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/description> "My data repository" http://datadock.io/kal/lodtest/metadata .
-<http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/lodtest/id/dataset/publisher> http://datadock.io/kal/lodtest/metadata .
-<http://datadock.io/kal/lodtest/> <http://purl.org/dc/terms/title> "Kal's Repository" http://datadock.io/kal/lodtest/metadata .
-<http://datadock.io/kal/lodtest/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> http://datadock.io/kal/lodtest/metadata .
-<http://datadock.io/kal/lodtest/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> http://datadock.io/kal/lodtest/metadata .
-<http://datadock.io/kal/lodtest/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Kal Ahmed" http://datadock.io/kal/lodtest/metadata .
-<http://datadock.io/kal/lodtest/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <http://techquila.com/> http://datadock.io/kal/lodtest/metadata .
-<http://datadock.io/kal/lodtest/id/dataset/publisher> <http://xmlns.com/foaf/0.1/mbox> "kal@techquila.com" http://datadock.io/kal/lodtest/metadata .
-<http://datadock.io/kal/lodtest/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "Kal Ahmed" http://datadock.io/kal/lodtest/metadata .

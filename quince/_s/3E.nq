@@ -1,2 +1,0 @@
-﻿<http://lodlab.com/kal/lodtest/id/definition/median_�_-_2000-01> <http://www.w3.org/2000/01/rdf-schema#label> "Median � - 2000-01"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/definitions>.
-<http://lodlab.com/kal/lodtest/id/definition/number_of_distributions> <http://www.w3.org/2000/01/rdf-schema#label> "Number of distributions"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/definitions>.

@@ -1,7 +1,0 @@
-﻿<http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://purl.org/dc/terms/description> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://purl.org/dc/terms/publisher> <http://lodlab.com/kal/lodtest/id/dataset/publisher> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://purl.org/dc/terms/title> "simple.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://rdfs.org/ns/void#triples> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata>.
-<http://lodlab.com/kal/lodtest/id/dataset/simple.csv> <http://www.w3.org/ns/dcat#keyword> "simples"^^<http://www.w3.org/2001/XMLSchema#string> <http://lodlab.com/kal/lodtest/id/dataset/simple.csv/metadata>.

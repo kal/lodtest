@@ -1,1 +1,0 @@
-﻿<http://datadock.io/kal/lodtest/id/definition/url> <http://www.w3.org/2000/01/rdf-schema#label> "url"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/lodtest/definitions>.
